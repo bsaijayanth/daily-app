@@ -1,0 +1,1 @@
+// Default task types or placeholders
